@@ -1,16 +1,16 @@
-# 📰 Fake News Detection using Deep Learning
+# Fake News Detection using Deep Learning
 
 This repository contains the implementation of various deep learning models to detect fake news using textual data and metadata. The models include BiLSTM, CNN-BiLSTM, Transformer, and a fine-tuned multimodal DistilBERT. Each model is trained and evaluated on a labeled dataset to classify news as either real or fake.
 
-## 🔍 Project Overview
+## Project Overview
 
 Fake news can spread rapidly and mislead the public. This project aims to build reliable classifiers that can detect such misinformation by leveraging natural language processing (NLP) and deep learning techniques.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
-* **Source:** [Kaggle Fake News Dataset](https://www.kaggle.com/datasets)
+* **Source:** [ISOT Fake News Dataset](https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/)
 * **Samples:**
 
   * Real News: 21,417
@@ -20,7 +20,7 @@ Fake news can spread rapidly and mislead the public. This project aims to build 
 
 ---
 
-## 🧠 Models Implemented
+## Models Implemented
 
 ### **BiLSTM**
 
